@@ -1,5 +1,5 @@
 # DisPatchEvents
-Android View事件分发的理解
+Android View事件分发
 
 ### 参考
 - [安卓自定义 View 进阶 - 事件分发原理](https://juejin.im/entry/57ebda47d2030900696e5a1f)
